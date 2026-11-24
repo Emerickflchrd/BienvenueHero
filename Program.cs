@@ -11,7 +11,7 @@ class Program
 {
     static void Main(string[] args)
     {
-          void Start()
+          void AfficherBienvenue()
           {
              Console.WriteLine("Bienvenue dans votre aventure, héros !");
           }
